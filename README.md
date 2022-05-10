@@ -1,13 +1,15 @@
-# WEATHER DASHBOARD (COMPLETE)
+# WEATHER DASHBOARD [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-## PROJECT DESCRIPTION
+## TABLE OF CONTENTS 
+- [Description](#DESCRIPTION)
+- [Links](#LINKS)
+- [Installation](#INSTALLATION)
+- [Contact](#CONTACT)
+
+## DESCRIPTION
 
 Objective was to create a weather dashboard that runs in the browser and features dynamically updated HTML and CSS. Whilst using
 an API to retrieve real time weather data for a current and predicted 5 day forecast.
-
-## LINK TO WORKING PAGE
-
-Click [here](https://lenny-g.github.io/weather-dashboard/) for finished webpage
 
 ## SCREENSHOTS
 
@@ -16,8 +18,14 @@ This is a screenshot of the working webpage.
 This is a screenshot of the local storage holding previous data.
 ![screenshot](./assets/screenshots/local-storage.png)
 
-## WORK ACHIEVED :
+## LINKS
 
-- Created a weather dashboard with multiple cards showing a current forecast and predicted forecast.
-- Rendered HTML and CSS in Javascript
-- Gather real time data from two APIs
+Click [here](https://lenny-g.github.io/weather-dashboard/) for finished webpage
+
+
+
+## CONTACT
+
+If you would like to contact me regarding this project please reach out to me either on 
+[LinkedIn](https://www.linkedin.com/in/leanne-gallagher/) or [GitHub](https://github.com/lenny-g)
+
