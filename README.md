@@ -2,8 +2,8 @@
 
 ## TABLE OF CONTENTS 
 - [Description](#DESCRIPTION)
+- [Screenshots](#SCREENSHOTS)
 - [Links](#LINKS)
-- [Installation](#INSTALLATION)
 - [Contact](#CONTACT)
 
 ## DESCRIPTION
